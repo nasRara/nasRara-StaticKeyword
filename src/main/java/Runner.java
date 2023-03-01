@@ -14,7 +14,7 @@ public class Runner {
      * For this problem, that means that there is only a single global_var shared across your whole application,
      * rather than there being a global_var for every object. I have named it global_var to help you imagine how
      * this variable differs from a field of an object: it exists, globally and independently, across the entire Java
-     * program.
+     * prram.
      *
      * Using the static keyword is an intentional decision. If you are using the static keyword and don't know why,
      * you are making a mistake. More on static here: https://www.baeldung.com/java-static
